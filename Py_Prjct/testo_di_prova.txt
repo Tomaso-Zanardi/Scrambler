@@ -1,0 +1,2 @@
+
+This text was written in spyder, not using notepad, vi, vim, or any other editor
